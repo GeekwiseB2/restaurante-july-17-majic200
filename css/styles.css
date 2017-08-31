@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Lobster|Playfair+Display');
+
 /*Navbar Styles*/
 .navbar-inverse {
   background-color: transparent;
@@ -59,3 +61,5 @@
 .btn-warning:hover {
   background-color: #D34326;
 }
+
+/*Main Styles*/
